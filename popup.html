@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <div class="header">
+      <div class="qr-code-con-bg"></div>
+      <div class="qr-code-con">
+        <p class="qr-code-text">QRCode</p>
+        <img id="qr-code-img" src="" />
+      </div>
+    </div>
+    <textarea
+      id="content-input"
+      placeholder="input: URL or Text"
+      autocomplete="off"
+      spellcheck="false"
+    ></textarea>
+
+    <script src="js/vendors/qrcode.min.js"></script>
+    <script src="js/helpers/index.js"></script>
+    <script src="js/createQRCode.js"></script>
+  </body>
+</html>

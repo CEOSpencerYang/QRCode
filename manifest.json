@@ -1,0 +1,14 @@
+{
+  "name": "QRCode",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "QRCode Generator",
+  "browser_action": {
+    "default_icon": {
+      "19": "images/QRCode-round.png",
+      "38": "images/QRCode-round.png"
+    },
+    "default_title": "QRCode",
+    "default_popup": "popup.html"
+  }
+}
