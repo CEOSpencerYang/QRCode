@@ -1,3 +1,8 @@
+### 简介
+#####  这是一个Chrome二维码生成插件
+
+---
+
 ### 安装方式
 
 ##### 1、下载插件[zip](`https://github.com/SpencerYang148/QRCode/archive/master.zip`)
