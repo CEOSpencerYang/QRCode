@@ -1,6 +1,6 @@
 ### 简介
 #####  这是一个Chrome二维码生成插件    
-![screenshot](https://raw.githubusercontent.com/SpencerYang148/QRCode/master/images/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/SpencerYang148/QRCode/master/images/QRCode_screenshot.png)
 
 ---
 
