@@ -1,7 +1,7 @@
 ### 安装方式
 
-##### 1、下载插件[zip](`https://github.com/CEOSpencerYang/QRCode/archive/master.zip`)
-`https://github.com/CEOSpencerYang/QRCode/archive/master.zip`
+##### 1、下载插件[zip](`https://github.com/SpencerYang148/QRCode/archive/master.zip`)
+`https://github.com/SpencerYang148/QRCode/archive/master.zip`
 
 ##### 2、解压zip
     （文件夹为：QRCode，内含文件、js、css、images文件夹）    
